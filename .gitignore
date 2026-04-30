@@ -1,0 +1,22 @@
+# KiCAD auto-save and backup files
+*-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+*.kicad_prl
+
+# KiCAD project local settings (user-specific)
+fp-info-cache
+
+# Simulation output
+*.cir
+*.raw
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor swap/temp files
+*.swp
+*~
