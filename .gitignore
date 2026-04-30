@@ -5,6 +5,9 @@
 _autosave-*
 *.kicad_prl
 
+# KiCAD lock files (created when project is open)
+~*.lck
+
 # KiCAD project local settings (user-specific)
 fp-info-cache
 
